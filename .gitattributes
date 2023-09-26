@@ -1,0 +1,4 @@
+Â.angular/cache/14.2.12/angular-webpack/796649cde6bfd3fb1afc5546639f0264103adf9b/ filter=lfs diff=lfs merge=lfs -text
+.pack filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
